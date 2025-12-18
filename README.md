@@ -4,3 +4,5 @@
 Este repositorio contiene ejercicios para el curso de DevOps.
 
 Contribución realizada a través del pull request
+
+Actualización urgente todos los sistemas operativos fueron actualizadosgit 
