@@ -23,7 +23,7 @@ Comprender flujos básicos de automatización y despliegue
 Estudiantes del curso de DevOps
 
 Personas que están iniciándose en DevOps
-
+ 
 Desarrolladores que desean practicar automatización, CI/CD y buenas prácticas
 
 📂 Contenido
