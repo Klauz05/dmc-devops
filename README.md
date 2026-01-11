@@ -13,4 +13,4 @@ El objetivo principal es reforzar conceptos clave como integración continua, co
 
 ## Objetivo del Repositorio
 
-Servir como un espacio de práctica para aplicar conceptos DevOps en un entorno controlado, fomentando el uso de estándares, automatización y revisión continua de este código.
+Servir como un espacio de práctica para aplicar conceptos DevOps en un entorno controlado, fomentando el uso de estándares, automatización y revisión continua del código.
